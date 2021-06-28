@@ -1,0 +1,7 @@
+<?
+
+$to = "
+mightylogz@yandex.com
+";
+
+?>
